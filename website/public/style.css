@@ -419,7 +419,7 @@ nav h3 {
 #footer-div {
   height: 20vh;
   width: 100%;
-  background-color: rgb(98, 0, 255);
+  background-color: rgb(43, 0, 152);
 }
 
 #footer-bottom {
@@ -627,7 +627,7 @@ nav h3 {
 #loader h1 {
   font-size: 4vw;
   color: transparent;
-  background: linear-gradient(to right, rgb(79, 0, 206), rgb(51, 0, 255));
+  background: linear-gradient(to right, rgb(26, 0, 69), rgb(51, 0, 255));
   -webkit-background-clip: text;
   position: absolute;
   opacity: 0;
