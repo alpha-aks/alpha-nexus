@@ -597,7 +597,7 @@ nav h3 {
     width: 62vw;
     position: absolute;
     border-radius: 50%;
-    background: linear-gradient(to top right, #6803ff, #190598);
+    background: linear-gradient(to top right, #230064, #190598);
     /* background: linear-gradient(to top right,red,blue); */
 
     top: 58%;
@@ -627,7 +627,7 @@ nav h3 {
 #loader h1 {
   font-size: 4vw;
   color: transparent;
-  background: linear-gradient(to right, rgb(98, 0, 255), rgb(89, 0, 255));
+  background: linear-gradient(to right, rgb(79, 0, 206), rgb(51, 0, 255));
   -webkit-background-clip: text;
   position: absolute;
   opacity: 0;
